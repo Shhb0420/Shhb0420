@@ -42,11 +42,15 @@ I am always eager to learn and stay up-to-date with the latest trends and techno
 ## 🤝 Let's Connect
 
 I'm open to collaborations and discussions. Feel free to connect with me on 
+<!--
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mshohib/)
 - [![Twitter](https://img.shields.io/twitter/follow/imshohib?style=social)](https://twitter.com/imshohib)
 - [![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://mosho05.t.me)
+-->
 
-Happy coding! 🚀
+<a href="https://twitter.com/imshohib"><img align="left" width="50" height="50" src="https://github.com/Shhb0420/Shhb0420/blob/main/assets/twit.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/mshohib/"><img align="left" width="50" height="50" src="https://github.com/Shhb0420/Shhb0420/blob/main/assets/linkedin.png?raw=true"></a>
+<a href="https://mosho05.t.me"><img align="left" width="50" height="50" src="https://github.com/Shhb0420/Shhb0420/blob/main/assets/tele.png?raw=true"></a>
 
 <!--
 **Shhb0420/Shhb0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
