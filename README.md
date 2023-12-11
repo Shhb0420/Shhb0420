@@ -26,7 +26,9 @@ I'm Shohib, a JavaScript developer with 2 years of experience in frontend develo
   
 ![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Static Badge](https://img.shields.io/badge/solidity-323330?style=for-the-badge&logo=solidity&logoColor=1a66d9)
+<!--
 ![Static Badge](https://img.shields.io/badge/ethereum-323330?style=for-the-badge&logo=ethereum&logoColor=5a5c5b)
+-->
 
 - **Frontend Frameworks:**
 
