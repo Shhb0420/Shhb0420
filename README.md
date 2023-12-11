@@ -20,20 +20,20 @@ I'm Shohib, a JavaScript developer with 2 years of experience in frontend develo
 
 - **Javascript UI :**
 
-![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 - **Languages :**
   
-![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Static Badge](https://img.shields.io/badge/solidity-323330?style=for-the-badge&logo=solidity&logoColor=1a66d9)
+[![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
+[![Static Badge](https://img.shields.io/badge/solidity-323330?style=for-the-badge&logo=solidity&logoColor=1a66d9)](https://soliditylang.org/)
 <!--
 ![Static Badge](https://img.shields.io/badge/ethereum-323330?style=for-the-badge&logo=ethereum&logoColor=5a5c5b)
 -->
 
 - **Frontend Frameworks:**
 
-![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Static Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## 📚 Learning
 
